@@ -55,7 +55,6 @@ Currently there wont be much in this Project cause im currently planing on desin
 | TMP . | 0x02 | 0x9D |
 | CLOCK : | 0x04 | 0x93 |
 | CLOCK . | 0x04 | 0x90 |
-| ------------- | ------------- | ------------- |
 
 
 
